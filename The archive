@@ -1,0 +1,14 @@
+The archive
+Lvl: 1 Score: 5 Category: miscellaneous
+I've forgotten my archive password. Help me restore it
+
+
+use fcrackzip 
+
+with  wordlist=  rockyou.txt
+
+ez flags
+
+┌──(kali㉿kali)-[~]
+└─$ fcrackzip -u -v -D -p /usr/share/wordlists/rockyou.txt archive.zip
+
