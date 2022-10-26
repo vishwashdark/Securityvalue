@@ -1,0 +1,6 @@
+The shellLvl: 1 Score: 5 Category: network
+There is pcapng file. Can you reveal the flag ?
+
+Use wireshark 
+└─$ wireshark rev_shell.pcapng
+Check all TCP’s you will get your flag
