@@ -1,0 +1,21 @@
+The shark
+Lvl: 1 Score: 5 Category: network
+There is pcapng file. Can you reveal the authentication credentials?
+
+its super easy 
+
+use wireshark 
+
+http unauthorized? 
+
+no worries
+
+follow TCP stream
+
+found something amazing? 
+ i know its amazing
+ 
+ decode authorization to base64 why ? " = "
+ 
+ hehe easy right
+ 
