@@ -1,0 +1,16 @@
+The data
+Lvl: 1 Score: 10 Category: network
+There is pcapng file. Can you, again, reveal the flag ?
+
+ use wireshark 
+ 
+ check tcp ports
+ 
+ found something intresting ?
+ 
+ go to http
+ 
+ got the png? 
+ 
+ yes that's your flag lol
+ 
